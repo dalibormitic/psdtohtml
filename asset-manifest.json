@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/psdtohtml/static/css/main.db41dfc5.chunk.css",
+    "main.js": "/psdtohtml/static/js/main.10818059.chunk.js",
+    "main.js.map": "/psdtohtml/static/js/main.10818059.chunk.js.map",
+    "runtime-main.js": "/psdtohtml/static/js/runtime-main.ff476b0e.js",
+    "runtime-main.js.map": "/psdtohtml/static/js/runtime-main.ff476b0e.js.map",
+    "static/js/2.8c799eda.chunk.js": "/psdtohtml/static/js/2.8c799eda.chunk.js",
+    "static/js/2.8c799eda.chunk.js.map": "/psdtohtml/static/js/2.8c799eda.chunk.js.map",
+    "static/js/3.83344eca.chunk.js": "/psdtohtml/static/js/3.83344eca.chunk.js",
+    "static/js/3.83344eca.chunk.js.map": "/psdtohtml/static/js/3.83344eca.chunk.js.map",
+    "index.html": "/psdtohtml/index.html",
+    "static/css/main.db41dfc5.chunk.css.map": "/psdtohtml/static/css/main.db41dfc5.chunk.css.map",
+    "static/js/2.8c799eda.chunk.js.LICENSE.txt": "/psdtohtml/static/js/2.8c799eda.chunk.js.LICENSE.txt",
+    "static/media/mobile.a3a2b22d.png": "/psdtohtml/static/media/mobile.a3a2b22d.png",
+    "static/media/mobile2.c6a50f5e.png": "/psdtohtml/static/media/mobile2.c6a50f5e.png",
+    "static/media/people.66cd4340.png": "/psdtohtml/static/media/people.66cd4340.png",
+    "static/media/phones.e27b49eb.png": "/psdtohtml/static/media/phones.e27b49eb.png",
+    "static/media/technologies.df97b41a.png": "/psdtohtml/static/media/technologies.df97b41a.png",
+    "static/media/test.74135885.png": "/psdtohtml/static/media/test.74135885.png",
+    "static/media/vector-last.5afc61ca.png": "/psdtohtml/static/media/vector-last.5afc61ca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff476b0e.js",
+    "static/js/2.8c799eda.chunk.js",
+    "static/css/main.db41dfc5.chunk.css",
+    "static/js/main.10818059.chunk.js"
+  ]
+}
